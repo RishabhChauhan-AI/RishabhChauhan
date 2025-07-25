@@ -1,4 +1,4 @@
-Hi, I'm Rishabh Chauhan
+Hi, I'm Rishabh Chauhan ("Ayush")
 
 I'm currently learning **Generative AI**, LLMs, and ML by building hands-on projects.
 
